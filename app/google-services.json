@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344461375172",
+    "project_id": "reviewmovie-3703d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344461375172:android:9618db2d039a53b5",
+        "android_client_info": {
+          "package_name": "com.isabel.reviewmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344461375172-usbav0qosan8mvbealbjl7msv65hma6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isabel.reviewmovie",
+            "certificate_hash": "36a45a7fa33ec80ea33cc45afe64a043e7424389"
+          }
+        },
+        {
+          "client_id": "344461375172-3deoae4p2h50s1pvde0flbjvna1s7nrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16keB2fn6FxJcoFvcIDDPrwkKBOriKDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
